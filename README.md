@@ -1,4 +1,6 @@
-#Customer Churn Prediction Using Artificial Neural Networks (ANN)
+##Customer Churn Prediction Using Artificial Neural Networks (ANN)
+
+
 📌 Project Overview
 This project focuses on predicting customer churn using an Artificial Neural Network (ANN) model. The goal is to analyze customer behavior based on key financial and demographic factors and determine the likelihood of a customer leaving a business. The model helps businesses retain customers by identifying those at risk of churning.
 
